@@ -1,0 +1,17 @@
+---WARN--- 
+ 01 01 2022 17:28:48 Sat Массив байтов []interface {}{net.Interface{Index:0, MTU:0, Name:"", HardwareAddr:net.HardwareAddr(nil), Flags:0x0}} 
+---WARN--- 
+
+ ---WARN--- 
+ 02 01 2022 21:43:45 Sun ┃ Test []interface {}{net.Interface{Index:0, MTU:0, Name:"", HardwareAddr:net.HardwareAddr(nil), Flags:0x0}} 
+---WARN--- 
+
+ ---INFO--- 
+ 02 01 2022 21:43:59 Sun ┃ Test []interface {}{net.Interface{Index:0, MTU:0, Name:"", HardwareAddr:net.HardwareAddr(nil), Flags:0x0}} 
+---INFO--- 
+
+ ---INFO--- 
+ 02 01 2022 21:44:17 Sun ┃ Test []interface {}{net.Interface{Index:0, MTU:0, Name:"", HardwareAddr:net.HardwareAddr(nil), Flags:0x0}} 
+---INFO--- 
+
+ 
